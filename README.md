@@ -16,7 +16,7 @@ Skills:
 
 Socials: 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AMulabeg)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://linkedin.com/in/amer-mulabegovic-aa74801a3)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/amermulabeg/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/a_mulabeg)  
+[![My Skills](https://skillicons.dev/icons?i=github)](https://github.com/AMulabeg)  [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/amer-mulabegovic-aa74801a3) [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/amermulabeg/)  [![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/a_mulabeg)  
 
 Stats:
 
