@@ -7,7 +7,7 @@ I use macOS with a tiling window manager and program in Neovim with my personal 
 Skills: 
 
 
-[![My Skills](https://skillicons.dev/icons?i=c,python,java,haskell,lua,neovim,idea,redhat,arch,linux,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,python,java,haskell,lua,neovim,idea,redhat,arch,linux,git,github)](https://skillicons.dev)
 
 - 🔭 I’m currently working on https://github.com/AMulabeg/Neovim 
 - 🌱 I’m currently learning C and System Level Programing 
