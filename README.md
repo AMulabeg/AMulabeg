@@ -2,7 +2,7 @@
 
 ### Hi there 👋, Welcome to my Github Profile
 My name is Amer Mulabegovic. I am a 21y/o Bosnian-American College student at the Technical University of Berlin. 
-I use macOS with a tiling window manager and program in Neovim with my personal config.
+I use Linux with a tiling window manager and program in Neovim with my personal config.
 
 Skills: 
 
