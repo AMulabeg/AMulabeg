@@ -9,7 +9,7 @@ Skills:
 
 [![My Skills](https://skillicons.dev/icons?i=c,python,java,haskell,lua,neovim,idea,redhat,arch,linux,git,github,nix)](https://skillicons.dev)
 
-- 🔭 I’m currently working on https://github.com/AMulabeg/Neovim 
+- 🔭 I’m currently working on: [https://github.com/AMulabeg/Neovim ](https://github.com/AMulabeg/NoHeroCheckoutBot)
 - 🌱 I’m currently learning C and System Level Programing 
 - 📫 How to reach me: Discord: _A1mer 
 - ⚡ Fun fact: I was the fastest Rubik's cube solver in Bosnia in 2018 
